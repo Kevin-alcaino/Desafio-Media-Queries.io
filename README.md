@@ -4,7 +4,7 @@ aplicados al diseño de layouts responsivos.
 
  ## 🔗 Links
 
-💻 Actualmente estoy trabajando en [Desafío 2 Grid ccs avanzado](https://kevin-alcaino.github.io/Desafi-o-Media-Queries.io/)
+💻 Actualmente estoy trabajando en [Desafío 3 Media Queries ccs avanzado](https://kevin-alcaino.github.io/Desafi-o-Media-Queries.io/)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kevin-alcaino.github.io/Kevin-alcaino.io/)
 
