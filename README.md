@@ -1,6 +1,6 @@
 ﻿# Desafio-Store con Media Queries.
 En este desafío validaremos nuestros conocimientos de media queries y breakpoints
-aplicados al diseño de layouts responsivos. 
+aplicados al diseño de layouts responsivos. En esta ocación replicare un layout de la pagina Sony como ejercicio practico.
 
  ## 🔗 Links
 
