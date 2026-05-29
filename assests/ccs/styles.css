@@ -137,4 +137,8 @@ footer {
         flex-direction: column;   
         gap: 15px;                
     }
+    main{
+        display: grid;
+        grid-template-columns: 1fr 1fr;  
+    }
 }
